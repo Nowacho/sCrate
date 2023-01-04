@@ -24,4 +24,4 @@
 
 - [ ] Make the entire plugin customizable
 - [ ] Create configurable yml for messages
-- [ ] Create a menu to edit the cra
+- [ ] Create a menu to edit the crates
