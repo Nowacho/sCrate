@@ -1,0 +1,4 @@
+name: sCrate
+version: '${project.version}'
+main: dev.soysix.net.sCrate
+authors: [ SoySix ]
