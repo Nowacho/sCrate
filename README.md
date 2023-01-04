@@ -13,9 +13,15 @@
 
 ---
 
-### Commands 📄
+### Commands ⚙️
 
 - Crate - To see all commands.
 - Crate give - To give you a key.
 - Crate giveall - To give a key to all players.
 - Crate list - to see all the crates (There is only one crate called TestCrate).
+
+### Todo 📄
+
+- [ ] Make the entire plugin customizable
+- [ ] Create configurable yml for messages
+- [ ] Create a menu to edit the cra
